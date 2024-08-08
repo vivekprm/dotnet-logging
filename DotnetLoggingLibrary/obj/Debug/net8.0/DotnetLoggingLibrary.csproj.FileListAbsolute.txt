@@ -1,0 +1,12 @@
+/Users/v.mishra/go/src/github.com/vivekprm/DotnetLoggingLibrary/bin/Debug/net8.0/DotnetLoggingLibrary.deps.json
+/Users/v.mishra/go/src/github.com/vivekprm/DotnetLoggingLibrary/bin/Debug/net8.0/DotnetLoggingLibrary.dll
+/Users/v.mishra/go/src/github.com/vivekprm/DotnetLoggingLibrary/bin/Debug/net8.0/DotnetLoggingLibrary.pdb
+/Users/v.mishra/go/src/github.com/vivekprm/DotnetLoggingLibrary/obj/Debug/net8.0/DotnetLoggingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/v.mishra/go/src/github.com/vivekprm/DotnetLoggingLibrary/obj/Debug/net8.0/DotnetLoggingLibrary.AssemblyInfoInputs.cache
+/Users/v.mishra/go/src/github.com/vivekprm/DotnetLoggingLibrary/obj/Debug/net8.0/DotnetLoggingLibrary.AssemblyInfo.cs
+/Users/v.mishra/go/src/github.com/vivekprm/DotnetLoggingLibrary/obj/Debug/net8.0/DotnetLoggingLibrary.csproj.CoreCompileInputs.cache
+/Users/v.mishra/go/src/github.com/vivekprm/DotnetLoggingLibrary/obj/Debug/net8.0/DotnetLoggingLibrary.dll
+/Users/v.mishra/go/src/github.com/vivekprm/DotnetLoggingLibrary/obj/Debug/net8.0/refint/DotnetLoggingLibrary.dll
+/Users/v.mishra/go/src/github.com/vivekprm/DotnetLoggingLibrary/obj/Debug/net8.0/DotnetLoggingLibrary.pdb
+/Users/v.mishra/go/src/github.com/vivekprm/DotnetLoggingLibrary/obj/Debug/net8.0/ref/DotnetLoggingLibrary.dll
+/Users/v.mishra/go/src/github.com/vivekprm/DotnetLoggingLibrary/obj/Debug/net8.0/DotnetLoggingLibrary.csproj.AssemblyReference.cache
